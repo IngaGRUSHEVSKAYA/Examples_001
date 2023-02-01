@@ -1,0 +1,15 @@
+C:\Users\Inga\GIT_GB\ExsamplesLekture\Examples002_HelloUser\bin\Debug\net6.0\Examples002_HelloUser.exe
+C:\Users\Inga\GIT_GB\ExsamplesLekture\Examples002_HelloUser\bin\Debug\net6.0\Examples002_HelloUser.deps.json
+C:\Users\Inga\GIT_GB\ExsamplesLekture\Examples002_HelloUser\bin\Debug\net6.0\Examples002_HelloUser.runtimeconfig.json
+C:\Users\Inga\GIT_GB\ExsamplesLekture\Examples002_HelloUser\bin\Debug\net6.0\Examples002_HelloUser.dll
+C:\Users\Inga\GIT_GB\ExsamplesLekture\Examples002_HelloUser\bin\Debug\net6.0\Examples002_HelloUser.pdb
+C:\Users\Inga\GIT_GB\ExsamplesLekture\Examples002_HelloUser\obj\Debug\net6.0\Examples002_HelloUser.csproj.AssemblyReference.cache
+C:\Users\Inga\GIT_GB\ExsamplesLekture\Examples002_HelloUser\obj\Debug\net6.0\Examples002_HelloUser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Inga\GIT_GB\ExsamplesLekture\Examples002_HelloUser\obj\Debug\net6.0\Examples002_HelloUser.AssemblyInfoInputs.cache
+C:\Users\Inga\GIT_GB\ExsamplesLekture\Examples002_HelloUser\obj\Debug\net6.0\Examples002_HelloUser.AssemblyInfo.cs
+C:\Users\Inga\GIT_GB\ExsamplesLekture\Examples002_HelloUser\obj\Debug\net6.0\Examples002_HelloUser.csproj.CoreCompileInputs.cache
+C:\Users\Inga\GIT_GB\ExsamplesLekture\Examples002_HelloUser\obj\Debug\net6.0\Examples002_HelloUser.dll
+C:\Users\Inga\GIT_GB\ExsamplesLekture\Examples002_HelloUser\obj\Debug\net6.0\refint\Examples002_HelloUser.dll
+C:\Users\Inga\GIT_GB\ExsamplesLekture\Examples002_HelloUser\obj\Debug\net6.0\Examples002_HelloUser.pdb
+C:\Users\Inga\GIT_GB\ExsamplesLekture\Examples002_HelloUser\obj\Debug\net6.0\Examples002_HelloUser.genruntimeconfig.cache
+C:\Users\Inga\GIT_GB\ExsamplesLekture\Examples002_HelloUser\obj\Debug\net6.0\ref\Examples002_HelloUser.dll
